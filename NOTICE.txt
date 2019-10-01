@@ -28,4 +28,5 @@ The following tools and components are required:
 
 The contributors of this project are:
 
-- Florentina Correa López (flocorlop@alum.us.es)
+- Abemorcardc (abemorcar@alum.us.es)
+- Florentina Correa Lopez (flocorlop@alum.us.es)
