@@ -29,3 +29,4 @@ The following tools and components are required:
 The contributors of this project are:
 
 - Abemorcardc (abemorcar@alum.us.es)
+- Florentina Correa Lopez (flocorlop@alum.us.es)
