@@ -25,9 +25,9 @@ The following tools and components are required:
 	- SQL Editor 1.0.0
 	- UMLet - UML Tool for Fast UML Diagrams 14.3
 	- Lombok 1.18.8
-	
-	The contributors of this project are:
 
-	- Javier Granja Naranjo (javgranar@alum.us.es)
+The contributors of this project are:
 
-
+- Abemorcardc (abemorcar@alum.us.es)
+- Florentina Correa Lopez (flocorlop@alum.us.es)
+- Javier Granja Naranjo (javgranar@alum.us.es)
