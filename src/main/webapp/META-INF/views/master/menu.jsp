@@ -36,7 +36,7 @@
 		</acme:menu-option>
 		
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
-		<!-- flor link --> <acme:menu-suboption code="master.menu.provider.Flor-link" action="https://www.xataka.com/"/>		
+		<!-- flor link --> <acme:menu-suboption code="master.menu.consumer.Flor-link" action="https://www.xataka.com/"/>		
 		</acme:menu-option>
 	</acme:menu-left>
 
