@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.javi-link" action="https://www.youtube.com/?hl=es&gl=ES"/>
 			<acme:menu-suboption code="master.menu.anonymous.angel-link" action="https://myanimelist.net/"/>
+      <acme:menu-suboption code="master.menu.anonymous.Flor-link" action="https://www.xataka.com/"/>
 
 		</acme:menu-option>
 
@@ -55,4 +56,3 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
-
