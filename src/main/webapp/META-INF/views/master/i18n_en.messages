@@ -44,11 +44,17 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
+master.menu.provider.javi-link = Javi link
+master.menu.provider.angel-link = Angel link
+master.menu.provider.flor-link = Flor link
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = Favourite link
+master.menu.consumer.javi-link = Javi link
+master.menu.consumer.angel-link = Angel link
+master.menu.consumer.flor-link = Flor link
 
 # master.menu.user-account ####################################################
 
