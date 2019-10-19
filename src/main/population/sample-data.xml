@@ -17,19 +17,60 @@
 
 	<import resource="conversion-service.xml" />
 
+<!--  Shouts -->
 
-
-<!-- Shouts  -->
 <bean id="shout01" class="acme.entities.shouts.Shout">
-<property name= "author" value="John Doe"/>
-<property name= "text" value="Hola soy John"/>
+<property name="author" value="John Doe"/>
+<property name="text" value="I'm happy!"/>
 <property name= "moment" value="2019/09/09 10:00"/>
 </bean>
 
 <bean id="shout02" class="acme.entities.shouts.Shout">
-<property name= "author" value="Juan Carlos"/>
-<property name= "text" value="Mi primer Shout"/>
-<property name= "moment" value="2019/09/09 11:00"/>
+<property name="author" value="Jane Doe"/>
+<property name="text" value="I'm the master of my room!"/>
+<property name= "moment" value="2019/08/09 15:55"/>
 </bean>
 
+<bean id="shout03" class="acme.entities.shouts.Shout">
+<property name="author" value="Foo Bar"/>
+<property name="text" value="I'm 20..."/>
+<property name= "moment" value="2019/09/07 00:00"/>
+</bean>
+
+<bean id="shout04" class="acme.entities.shouts.Shout">
+<property name="author" value="Peter McCain"/>
+<property name="text" value="Where am I?"/>
+<property name= "moment" value="2019/04/05 17:25"/>
+</bean>
+
+<bean id="shout05" class="acme.entities.shouts.Shout">
+<property name="author" value="Tony Montana"/>
+<property name="text" value="Who put this thing together?"/>
+<property name= "moment" value="2019/07/26 20:19"/>
+</bean>
+
+<bean id="shout06" class="acme.entities.shouts.Shout">
+<property name="author" value="Freddy Krueger"/>
+<property name="text" value="You can check in, but you can't check out"/>
+<property name= "moment" value="2019/02/17 05:14"/>
+</bean>
+ 
+<bean id="shout07" class="acme.entities.shouts.Shout">
+<property name= "author" value="Julián Pérez"/>
+<property name= "text" value="¿Qué es esto?"/>
+<property name= "moment" value="2019/09/09 03:14"/>
+</bean>
+
+<bean id="shout08" class="acme.entities.shouts.Shout">
+<property name= "author" value="Juan Carlos Serrano"/>
+<property name= "text" value="Mi primer Shout"/>
+<property name= "moment" value="2019/10/09 11:00"/>
+</bean>
+  
+<bean id="shout09" class="acme.entities.shouts.Shout">
+<property name= "author" value="Stefan Parker"/>
+<property name= "text" value="I'm looking for a Job"/>
+<property name= "moment" value="2019/09/09 11:00"/>
+</bean>
+  
 </beans>

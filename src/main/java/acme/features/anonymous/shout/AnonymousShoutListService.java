@@ -15,12 +15,14 @@ import acme.framework.services.AbstractListService;
 @Service
 public class AnonymousShoutListService implements AbstractListService<Anonymous, Shout> {
 
+
 	//Internal state ---------------------------------------------------
 	@Autowired
 	AnonymousShoutRepository repository;
 
 
 	//AbstractListService<Anonymous,Shout> interface ---------------------------------------------------
+
 
 	@Override
 	public boolean authorise(final Request<Shout> request) {
@@ -41,7 +43,7 @@ public class AnonymousShoutListService implements AbstractListService<Anonymous,
 		assert request != null;
 		assert entity != null;
 		assert model != null;
-
+    
 		request.unbind(entity, model, "author", "text", "moment");
 	}
 }
