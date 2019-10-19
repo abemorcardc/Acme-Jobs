@@ -17,4 +17,23 @@
 
 	<import resource="conversion-service.xml" />
 
+<!--  Shouts -->
+
+<bean id="shout01" class="acme.entities.shouts.Shout">
+<property name="author" value="Peter McCain"/>
+<property name="text" value="Where am I?"/>
+<property name= "moment" value="2019/04/05 17:25"/>
+</bean>
+
+<bean id="shout02" class="acme.entities.shouts.Shout">
+<property name="author" value="Tony Montana"/>
+<property name="text" value="Who put this thing together?"/>
+<property name= "moment" value="2019/07/26 20:19"/>
+</bean>
+
+<bean id="shout03" class="acme.entities.shouts.Shout">
+<property name="author" value="Freddy Krueger"/>
+<property name="text" value="You can check in, but you can't check out"/>
+<property name= "moment" value="2019/02/17 05:14"/>
+</bean>
 </beans>
