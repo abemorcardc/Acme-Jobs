@@ -37,4 +37,22 @@
 <property name= "moment" value="2019/09/07 00:00"/>
 </bean>
 
+<bean id="shout04" class="acme.entities.shouts.Shout">
+<property name="author" value="Peter McCain"/>
+<property name="text" value="Where am I?"/>
+<property name= "moment" value="2019/04/05 17:25"/>
+</bean>
+
+<bean id="shout05" class="acme.entities.shouts.Shout">
+<property name="author" value="Tony Montana"/>
+<property name="text" value="Who put this thing together?"/>
+<property name= "moment" value="2019/07/26 20:19"/>
+</bean>
+
+<bean id="shout06" class="acme.entities.shouts.Shout">
+<property name="author" value="Freddy Krueger"/>
+<property name="text" value="You can check in, but you can't check out"/>
+<property name= "moment" value="2019/02/17 05:14"/>
+</bean>
+  
 </beans>
