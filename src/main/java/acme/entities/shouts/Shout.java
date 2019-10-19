@@ -16,7 +16,6 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-
 public class Shout extends DomainEntity {
 
 	//serialisation identifier
@@ -32,4 +31,5 @@ public class Shout extends DomainEntity {
 	@Temporal(TemporalType.TIMESTAMP)
 	@Past
 	private Date				moment;
+
 }

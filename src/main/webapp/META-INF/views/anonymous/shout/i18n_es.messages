@@ -1,3 +1,4 @@
+
 # i18n_en.messages
 #
 # Copyright (c) 2019 Rafael Corchuelo.
@@ -7,6 +8,7 @@
 # this software. It has been tested carefully, but it is not guaranteed for any particular
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
+
 
 anonymous.shout.list.label.moment = Momento
 anonymous.shout.list.label.author = Autor

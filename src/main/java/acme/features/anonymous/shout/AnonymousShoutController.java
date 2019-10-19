@@ -16,12 +16,18 @@ import acme.framework.entities.Anonymous;
 @RequestMapping("/anonymous/shout/")
 public class AnonymousShoutController extends AbstractController<Anonymous, Shout> {
 
-	//internal state
+
+	//Internal state -----------------------------------------------
+
+
 	@Autowired
 	private AnonymousShoutListService listService;
 
 
-	//constructores
+
+	//Constructor--------------------------------------------------
+
+
 	@PostConstruct
 	private void initialise() {
 		super.addBasicCommand(BasicCommand.LIST, this.listService);

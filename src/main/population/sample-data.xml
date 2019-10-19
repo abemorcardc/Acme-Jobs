@@ -54,5 +54,23 @@
 <property name="text" value="You can check in, but you can't check out"/>
 <property name= "moment" value="2019/02/17 05:14"/>
 </bean>
+ 
+<bean id="shout07" class="acme.entities.shouts.Shout">
+<property name= "author" value="Julián Pérez"/>
+<property name= "text" value="¿Qué es esto?"/>
+<property name= "moment" value="2019/09/09 03:14"/>
+</bean>
+
+<bean id="shout08" class="acme.entities.shouts.Shout">
+<property name= "author" value="Juan Carlos Serrano"/>
+<property name= "text" value="Mi primer Shout"/>
+<property name= "moment" value="2019/10/09 11:00"/>
+</bean>
+  
+<bean id="shout09" class="acme.entities.shouts.Shout">
+<property name= "author" value="Stefan Parker"/>
+<property name= "text" value="I'm looking for a Job"/>
+<property name= "moment" value="2019/09/09 11:00"/>
+</bean>
   
 </beans>
