@@ -1,0 +1,8 @@
+anonymous.shout.list.label.moment = Moment
+anonymous.shout.list.label.author = Author
+anonymous.shout.list.label.text = Text
+
+anonymous.shout.label.author = Author:
+anonymous.shout.label.text = Text:
+anonymous.shout.button.create = Shout!
+anonymous.shout.button.return = Return

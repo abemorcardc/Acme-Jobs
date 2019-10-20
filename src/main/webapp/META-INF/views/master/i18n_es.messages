@@ -29,6 +29,8 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+master.menu.shout = Gritar
+master.menu.shouts = Gritos
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.javi-link = Enlace de Javi
 master.menu.anonymous.angel-link = Enlace de Ángel

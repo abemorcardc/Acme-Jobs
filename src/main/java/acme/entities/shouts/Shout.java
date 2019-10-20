@@ -1,4 +1,3 @@
-
 package acme.entities.shouts;
 
 import java.util.Date;
