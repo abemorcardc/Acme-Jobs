@@ -28,6 +28,7 @@
 		
 		<acme:menu-option code="master.menu.shout" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.shouts" action="/anonymous/shout/list"/>
+			<acme:menu-suboption code="master.menu.create" action="/anonymous/shout/create"/>
 
 		</acme:menu-option>
 

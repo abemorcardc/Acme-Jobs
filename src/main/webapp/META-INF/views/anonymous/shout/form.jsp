@@ -7,6 +7,6 @@
 	<acme:form-textbox code="anonymous.shout.form.label.author" path="author"/>
 	<acme:form-textarea code="anonymous.shout.form.label.text" path="text"/>
 	
-	<acme:form-submit code="anonymous.shout.form.button.create" action="/anonymous/about/create"/>
+	<acme:form-submit code="anonymous.shout.form.button.create" action="/anonymous/shout/create"/>
 	<acme:form-return code="anonymous.shout.form.button.return"/>
 	</acme:form>
