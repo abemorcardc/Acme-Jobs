@@ -29,14 +29,17 @@
 		<acme:menu-option code="master.menu.shout" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.shouts" action="/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.create" action="/anonymous/shout/create"/>
+  	</acme:menu-option>
 
-		</acme:menu-option>
-		
 		<acme:menu-option code="master.menu.granja-bulletin" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.granja-bulletins" action="/anonymous/granja-bulletin/list"/>
 			<acme:menu-suboption code="master.menu.granja-bulletin.create" action="/anonymous/granja-bulletin/create"/>
-
-		</acme:menu-option>
+    </acme:menu-option>
+    
+		<acme:menu-option code="master.menu.morante-bulletin" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.morante-bulletins" action="/anonymous/morante-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.morante-bulletin.create" action="/anonymous/morante-bulletin/create"/>
+    </acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
