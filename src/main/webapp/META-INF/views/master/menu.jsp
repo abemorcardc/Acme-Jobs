@@ -25,6 +25,11 @@
             <acme:menu-suboption code="master.menu.anonymous.flor-link" action="https://www.xataka.com/"/>
 
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.shout" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.shouts" action="/anonymous/shout/list"/>
+
+		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
