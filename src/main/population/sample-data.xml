@@ -90,5 +90,19 @@
 <property name= "text" value="I'm Spiderman"/>
 <property name= "moment" value="2019/09/09 12:15"/>
 </bean>
+
+<!--  GranjaBulletin -->
+
+<bean id="granjaBulletin01" class="acme.entities.granjaBulletins.GranjaBulletin">
+<property name= "author" value="Monolo 72"/>
+<property name= "text" value="Buenas!!"/>
+<property name= "moment" value="2019/10/09 10:00"/>
+</bean>
+  
+<bean id="granjaBulletin02" class="acme.entities.granjaBulletins.GranjaBulletin">
+<property name= "author" value="Peter Parker"/>
+<property name= "text" value="I'm Spiderman"/>
+<property name= "moment" value="2019/09/09 12:15"/>
+</bean>
   
 </beans>
