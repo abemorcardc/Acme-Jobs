@@ -29,7 +29,17 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+
     create table `morante_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `moment` datetime(6),
+        `text` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+    
+    create table `granja_bulletin` (
        `id` integer not null,
         `version` integer not null,
         `author` varchar(255),
