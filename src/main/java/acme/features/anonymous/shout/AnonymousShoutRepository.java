@@ -1,4 +1,3 @@
-
 package acme.features.anonymous.shout;
 
 import java.util.Collection;
@@ -14,5 +13,4 @@ public interface AnonymousShoutRepository extends AbstractRepository {
 
 	@Query("select s from Shout s")
 	Collection<Shout> findMany();
-
 }

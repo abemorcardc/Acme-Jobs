@@ -1,4 +1,3 @@
-
 package acme.features.anonymous.shout;
 
 import javax.annotation.PostConstruct;
