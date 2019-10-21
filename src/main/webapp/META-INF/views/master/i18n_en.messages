@@ -32,9 +32,22 @@ master.menu.anonymous = Anonymous
 master.menu.shout = Shout
 master.menu.shouts = Shouts
 master.menu.create = Create Shout
+
 master.menu.correa-bulletin = Correa Bulletin
 master.menu.correa-bulletins = Correa Bulletins
 master.menu.correa-bulletin.create = Create Correa Bulletin
+
+
+master.menu.granja-bulletin = Granja Bulletin
+master.menu.granja-bulletins = Granja Bulletins
+master.menu.granja-bulletin.create = Create Granja Bulletin
+
+master.menu.morante-bulletin = MoranteBulletin
+master.menu.morante-bulletins = MoranteBulletin
+master.menu.morante-bulletin.create =Create MoranteBulletin
+
+
+
 master.menu.anonymous.favourite-link = Favourite link
 master.menu.anonymous.javi-link = Javi link
 master.menu.anonymous.angel-link = Angel link

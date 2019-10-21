@@ -1,4 +1,5 @@
 
+
     alter table `administrator` 
        drop 
        foreign key FK_2a5vcjo3stlfcwadosjfq49l1;
@@ -27,6 +28,10 @@
 
     drop table if exists `consumer`;
 
+    drop table if exists `granja_bulletin`;
+
+    drop table if exists `morante_bulletin`;
+    
     drop table if exists `correa_bulletin`;
 
     drop table if exists `provider`;
