@@ -92,6 +92,20 @@
 </bean>
 
 
+<!-- CorreaBulletin -->
+<bean id="correaBulletin01" class="acme.entities.correaBulletins.CorreaBulletin">
+<property name= "author" value="J.J"/>
+<property name= "text" value="New shout"/>
+<property name= "moment" value="2019/09/09 23:15"/>
+</bean>  
+
+<bean id="correaBulletin02" class="acme.entities.correaBulletins.CorreaBulletin">
+<property name= "author" value="R.L"/>
+<property name= "text" value="Fashion victim"/>
+<property name= "moment" value="2019/09/10 23:15"/>
+</bean>
+
+
 <!--  GranjaBulletin -->
 
 <bean id="granjaBulletin01" class="acme.entities.granjaBulletins.GranjaBulletin">
@@ -119,4 +133,5 @@
 <property name= "moment" value="2019/09/09 12:15"/>
 </bean>
   
+
 </beans>

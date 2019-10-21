@@ -1,4 +1,5 @@
 
+
     create table `administrator` (
        `id` integer not null,
         `version` integer not null,
@@ -47,6 +48,16 @@
         `text` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
+    
+    create table `correa_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `moment` datetime(6),
+        `text` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
 
     create table `provider` (
        `id` integer not null,
