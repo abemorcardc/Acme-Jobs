@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.javi-link" action="https://www.youtube.com/?hl=es&gl=ES"/>
 			<acme:menu-suboption code="master.menu.anonymous.angel-link" action="https://myanimelist.net/"/>
             <acme:menu-suboption code="master.menu.anonymous.flor-link" action="https://www.xataka.com/"/>
+            <acme:menu-suboption code="master.menu.anonymous.abel-link" action="https://www.digitalcombatsimulator.com/en/"/>
 
 		</acme:menu-option>
 		
@@ -42,7 +43,7 @@
 			<acme:menu-suboption code="master.menu.morante-bulletin.create" action="/anonymous/morante-bulletin/create"/>
     </acme:menu-option>
 
-    </acme:menu-option>	
+   
 			<acme:menu-option code="master.menu.correa-bulletin" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.correa-bulletins" action="/anonymous/correa-bulletin/list"/>
 			<acme:menu-suboption code="master.menu.correa-bulletin.create" action="/anonymous/correa-bulletin/create"/>

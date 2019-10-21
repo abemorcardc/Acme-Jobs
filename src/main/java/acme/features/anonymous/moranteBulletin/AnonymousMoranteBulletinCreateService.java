@@ -39,8 +39,8 @@ public class AnonymousMoranteBulletinCreateService implements AbstractCreateServ
 		moment = new Date(System.currentTimeMillis() - 1);
 
 		result = new MoranteBulletin();
-		result.setAuthor("Antonio Naranjo");
-		result.setText("Buenas!");
+		result.setAuthor("Pedro Iglesias");
+		result.setText("Hola a todos");
 		result.setMoment(moment);
 
 		return result;
