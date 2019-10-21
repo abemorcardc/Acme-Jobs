@@ -31,14 +31,30 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.shout = Gritar
 master.menu.shouts = Gritos
+master.menu.morante-bulletin = MoranteBoletin
+master.menu.morante-bulletins = MoranteBoletines
+master.menu.morante-bulletin.create =Crear MoranteBoletin
 master.menu.create = Crear Grito
+
 master.menu.caballero-bulletin = Caballero Boletín
 master.menu.caballero-bulletins = Caballero Boletínes
 master.menu.caballero-bulletin.create = Crear un Caballero Boletín
+
+
+master.menu.correa-bulletin = Correa Boletin
+master.menu.correa-bulletins = Correa Boletines
+master.menu.correa-bulletin.create = Crear un Correa Bolentin
+
+master.menu.granja-bulletin = Granja Boletin
+master.menu.granja-bulletins = Granja Boletines
+master.menu.granja-bulletin.create = Crear un Granja Bolentin
+
+
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.javi-link = Enlace de Javi
 master.menu.anonymous.angel-link = Enlace de Ángel
 master.menu.anonymous.flor-link = Enlace de Flor
+master.menu.anonymous.abel-link = Enlace de Abel
 
 
 # master.menu.administrator ###################################################
@@ -54,6 +70,7 @@ master.menu.provider.favourite-link = Enlace favorito
 master.menu.provider.javi-link = Enlace de Javi
 master.menu.provider.angel-link = Enlace de Ángel
 master.menu.provider.flor-link = Enlace de Flor
+master.menu.provider.abel-link = Enlace de Abel
 
 # master.menu.consumer ##########################################################
 
@@ -62,6 +79,7 @@ master.menu.consumer.favourite-link = Enlace favorito
 master.menu.consumer.javi-link = Enlace de Javi
 master.menu.consumer.angel-link = Enlace de Ángel
 master.menu.consumer.flor-link = Enlace de Flor
+master.menu.consumer.abel-link = Enlace de Abel
 
 # master.menu.user-account ####################################################
 

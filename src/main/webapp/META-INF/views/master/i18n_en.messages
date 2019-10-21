@@ -32,13 +32,33 @@ master.menu.anonymous = Anonymous
 master.menu.shout = Shout
 master.menu.shouts = Shouts
 master.menu.create = Create Shout
+
 master.menu.caballero-bulletin = Caballero Bulletin
 master.menu.caballero-bulletins = Caballero Bulletins
 master.menu.caballero-bulletin.create = Create Caballero Bulletin
+
+
+master.menu.correa-bulletin = Correa Bulletin
+master.menu.correa-bulletins = Correa Bulletins
+master.menu.correa-bulletin.create = Create Correa Bulletin
+
+
+master.menu.granja-bulletin = Granja Bulletin
+master.menu.granja-bulletins = Granja Bulletins
+master.menu.granja-bulletin.create = Create Granja Bulletin
+
+master.menu.morante-bulletin = MoranteBulletin
+master.menu.morante-bulletins = MoranteBulletin
+master.menu.morante-bulletin.create =Create MoranteBulletin
+
+
+
+
 master.menu.anonymous.favourite-link = Favourite link
 master.menu.anonymous.javi-link = Javi link
 master.menu.anonymous.angel-link = Angel link
 master.menu.anonymous.flor-link = Flor link
+master.menu.anonymous.abel-link = Abel link
 
 # master.menu.administrator ###################################################
 
@@ -53,6 +73,7 @@ master.menu.provider.favourite-link = Favourite link
 master.menu.provider.javi-link = Javi link
 master.menu.provider.angel-link = Angel link
 master.menu.provider.flor-link = Flor link
+master.menu.provider.abel-link = Abel link
 
 # master.menu.consumer ##########################################################
 
@@ -61,6 +82,7 @@ master.menu.consumer.favourite-link = Favourite link
 master.menu.consumer.javi-link = Javi link
 master.menu.consumer.angel-link = Angel link
 master.menu.consumer.flor-link = Flor link
+master.menu.consumer.abel-link = Abel link
 
 # master.menu.user-account ####################################################
 
