@@ -33,6 +33,11 @@ master.menu.shout = Shout
 master.menu.shouts = Shouts
 master.menu.create = Create Shout
 
+master.menu.caballero-bulletin = Caballero Bulletin
+master.menu.caballero-bulletins = Caballero Bulletins
+master.menu.caballero-bulletin.create = Create Caballero Bulletin
+
+
 master.menu.correa-bulletin = Correa Bulletin
 master.menu.correa-bulletins = Correa Bulletins
 master.menu.correa-bulletin.create = Create Correa Bulletin
@@ -45,6 +50,7 @@ master.menu.granja-bulletin.create = Create Granja Bulletin
 master.menu.morante-bulletin = MoranteBulletin
 master.menu.morante-bulletins = MoranteBulletin
 master.menu.morante-bulletin.create =Create MoranteBulletin
+
 
 
 

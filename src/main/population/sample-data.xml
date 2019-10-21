@@ -92,6 +92,27 @@
 </bean>
 
 
+<!--  CaballeroBulletins -->
+
+<bean id="caballeroBulletin01" class="acme.entities.caballeroBulletins.CaballeroBulletin">
+<property name="author" value="Michael Myers"/>
+<property name="text" value="..."/>
+<property name= "moment" value="2018/10/31 23:59"/>
+</bean>
+
+<bean id="caballeroBulletin02" class="acme.entities.caballeroBulletins.CaballeroBulletin">
+<property name="author" value="Jimmy"/>
+<property name="text" value="I like that!"/>
+<property name= "moment" value="2019/04/09 18:35"/>
+</bean>
+
+<bean id="caballeroBulletin03" class="acme.entities.caballeroBulletins.CaballeroBulletin">
+<property name="author" value="Chuck"/>
+<property name="text" value="I see your point"/>
+<property name= "moment" value="2019/09/12 19:45"/>
+</bean>
+
+
 <!-- CorreaBulletin -->
 <bean id="correaBulletin01" class="acme.entities.correaBulletins.CorreaBulletin">
 <property name= "author" value="J.J"/>

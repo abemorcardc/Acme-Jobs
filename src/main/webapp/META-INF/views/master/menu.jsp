@@ -49,6 +49,11 @@
 			<acme:menu-suboption code="master.menu.correa-bulletin.create" action="/anonymous/correa-bulletin/create"/>
 
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.caballero-bulletin" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.caballero-bulletins" action="/anonymous/caballero-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.caballero-bulletin.create" action="/anonymous/caballero-bulletin/create"/>
+   		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
