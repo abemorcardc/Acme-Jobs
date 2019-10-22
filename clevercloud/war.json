@@ -4,7 +4,7 @@
 		"goal": "clean compile package"
 	},
 	"deploy": {
-		"container": "TOMCATB",
+		"container": "TOMCAT8",
 		"war": [
 			{
 				"file": "target/acme-jobs-1.0.war",
