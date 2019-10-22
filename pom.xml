@@ -17,13 +17,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>acme</groupId>
+	<groupId>acme-jobs</groupId>
 	<artifactId>acme-jobs</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
 	<name>Acme-Jobs</name>
-	<description>This is the Starter Project for the students of Design &amp; Testing.</description>
+	<description>This is the Acme-Jobs Project for the students of Design &amp; Testing.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
